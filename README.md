@@ -2,7 +2,9 @@
 Actividades, practicas y evidencias del equipo 1
 
 Equipo 1 
+
 Integrantes:
+
 Roberto Leos Perez (Leosinfinito)
 
 Carlos Alexis Vidal Marquez (al3xM4rkes)
