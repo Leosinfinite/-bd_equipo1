@@ -14,6 +14,7 @@ Diana Aylin Bautista Morales (Aylin BauMor)
 Actividades:
 1. Preguntas.
 2. Video sobre la entrevista.
+       https://drive.google.com/file/d/1PbdFglG1CV90Zs9J4BAhnH-1HBgaA51r/view?usp=drive_link
 
    Roberto (Edicion y aportacion de video)
 
