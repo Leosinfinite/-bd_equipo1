@@ -22,4 +22,4 @@ Actividades:
 
    Diana (Realizacion de entrevista a la persona y aportacion al video)
 
-   3. SQL  de tablas sobre hospital (Borrador)
+3. SQL  de tablas sobre hospital (Borrador)
