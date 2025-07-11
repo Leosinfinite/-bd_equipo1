@@ -21,3 +21,5 @@ Actividades:
    Alexis (Realizacion de preguntas y aportacion al video)
 
    Diana (Realizacion de entrevista a la persona y aportacion al video)
+
+   3. SQL  de tablas sobre hospital (Borrador)
