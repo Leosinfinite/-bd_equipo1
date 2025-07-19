@@ -23,3 +23,11 @@ Actividades:
    Diana (Realizacion de entrevista a la persona y aportacion al video)
 
 3. SQL  de tablas sobre hospital (Borrador)
+4. Proyecto Final Sistemas de informacion I
+   
+   Roberto (Creación de las 10 tablas, Consultas con operadores)
+
+   Alexis (Inserción de datos para cada tabla, Consulta CRUD DELETE)
+
+   Diana (Consultas CRUD INSERT y UPDATE, investigación JOIN, Capturas de pantalla)
+
